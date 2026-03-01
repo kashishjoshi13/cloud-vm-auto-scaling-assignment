@@ -1,0 +1,1 @@
+# cloud-vm-auto-scaling-assignment
